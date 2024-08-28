@@ -1,5 +1,5 @@
 # Open Information (Relation) Extraction Model
-Build an open information (relation) extraction model making use of the algorithm introduced by TextRunner. This model can be used to get candidate relationships.
+TextRunner: Open Information Extraction on the Web
 
 ## Python Packages Needed
 - pandas
